@@ -1,0 +1,23 @@
+{
+  "name": "expressdemonstration",
+  "version": "1.0.0",
+  "description": "An example express application",
+  "homepage": "https://github.com/tgifford-usc/ExpressDemonstration#readme",
+  "bugs": {
+    "url": "https://github.com/tgifford-usc/ExpressDemonstration/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgifford-usc/ExpressDemonstration.git"
+  },
+  "license": "MIT",
+  "author": "tgifford-usc",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
